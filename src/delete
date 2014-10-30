@@ -1,0 +1,7 @@
+<a href = "menu" style = "text-align:left">Back</a> 
+<form  method = "post">
+	<table align = "center">
+ 		<tr> <td> Enter ID:    </td> <td> <input type = "text" name = "id"> </td> </tr>  	
+	</table>
+	<input type = "submit"  value = "submit" method = "post" style = "width:100px; height: 25px">
+</form> 

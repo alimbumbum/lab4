@@ -1,0 +1,19 @@
+<a href = "menu" style = "text-align:left">Back</a> 
+<form  method = "post">
+	<table align = "center">
+ 		<tr> <td> First name:    </td> <td> <input type = "text" name = "fname"> </td> </tr>
+		<tr> <td> Last name: </td> <td> <input type = "text" name = "lname"> </td> </tr>
+		<tr> <td> Faculty: </td> 
+		<td> <select name="fac">
+			<option value="FIT">FIT</option> <option value="FOGI">FOGI</option>
+			<option value="ISE">ISE</option> <option value="BS">BS</option>
+			<option value="KSA">KSA</option>
+		</select> </td> </tr>
+		<tr> <td> Year of study: </td> 
+		<td> <select name="yof">
+			<option value="1">1</option> <option value="2">2</option> <option value="3">3</option>
+			<option value="4">4</option> <option value="5">5</option> <option value="6">6</option>
+		</select> </td> </tr>  	
+	</table>
+	<input type = "submit"  value = "submit" method = "post" style = "width:100px; height: 25px">
+</form> 

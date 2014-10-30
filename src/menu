@@ -1,0 +1,5 @@
+<a href = "add" style = "font-size:30px"> Add student </a> <br>
+<a href = "view" style = "font-size:30px"> View list of students </a> <br>
+<a href = "delete" style = "font-size:30px"> Delete student </a> <br>
+<a href = "change" style = "font-size:30px"> Change faculty </a> <br>
+

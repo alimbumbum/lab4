@@ -1,0 +1,13 @@
+<a href = "menu" style = "text-align:left">Back</a> 
+<form  method = "post">
+	<table align = "center">
+ 		<tr> <td> Enter ID:    </td> <td> <input type = "text" name = "id"> </td> </tr>
+		<tr> <td> Choose new faculty: </td> 
+		<td> <select name="fac">
+			<option value="FIT">FIT</option> <option value="FOGI">FOGI</option>
+			<option value="ISE">ISE</option> <option value="BS">BS</option>
+			<option value="KMA">KMA</option>
+		</select> </td> </tr>  	
+	</table>
+	<input type = "submit"  value = "submit" method = "post" style = "width:100px; height: 25px">
+</form> 
